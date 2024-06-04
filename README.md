@@ -8,4 +8,4 @@
 
 .cloud services, ci/cd and more more dev.ops stuff (some of them with those penguins)
 
-.storyblok and everything that is topl... - headless! i mean headless!
+.storyblok and everything that is topl... - headless! (no line stepper, swear i meant headless)
